@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9231aa2b9c9502ea1e8684cbc97ebf59",
+    "revision": "58f60b6838f870a5302ed0692420ac00",
     "url": "/branmorbigday/index.html"
   },
   {
-    "revision": "dc55c632da1a66fcf647",
+    "revision": "e849ad767fb978bef403",
     "url": "/branmorbigday/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/branmorbigday/static/js/2.5b259fa4.chunk.js.LICENSE"
   },
   {
-    "revision": "dc55c632da1a66fcf647",
-    "url": "/branmorbigday/static/js/main.9da34362.chunk.js"
+    "revision": "e849ad767fb978bef403",
+    "url": "/branmorbigday/static/js/main.16af11c6.chunk.js"
   },
   {
     "revision": "f842711cf1aa458d43ec",
     "url": "/branmorbigday/static/js/runtime-main.c6614d68.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/branmorbigday/static/media/logo.5d5d9eef.svg"
   }
 ]);
